@@ -23,3 +23,4 @@ module.exports = {
   REWARD_INPUT,
   MINING_REWARD
 };
+
